@@ -9,4 +9,4 @@ RUN pip3 install scikit-learn
 COPY marks.csv  /
 COPY marks.py   /
 
-CMD python3 marks.py
+CMD python3 /marks.py
